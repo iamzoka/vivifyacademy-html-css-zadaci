@@ -75,7 +75,7 @@
 * Media queries
 
 ## Live coding examples
-1. Inspector basics
+1. Inspector and editor basics
 2. Basic HTML tags (headings, paragraphs, lists, strong, em)
 3. Tables
 4. Images and links
